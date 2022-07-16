@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:45:5-54:16
+	android:grantUriPermissions
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:49:9-43
+	android:authorities
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:47:9-60
+	android:exported
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:48:9-33
+	tools:replace
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:50:9-44
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:46:9-63
+manifest
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] E:\.gradle\caches\transforms-2\files-2.1\aaf90632dd37375cba8181d0e97bbd69\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ad807e80d9ad0d336659fca9b4e41e55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\fcb1a59028735eeb8e027124d947d7c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\3b96b1725cafd47b94d5d0c24654167f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\888b9e673ef926a58263c9b769cefda5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\d72ab9b7e39605297fa44d07559594b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4cbb8c53ed2935ae8c002384ee937f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aec0d8c7d5de4adf36eaf606a9d021a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\b96505f33a2719681053daa7f8a9d7a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\658322ea5edf78fbd9282f7050c040b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4668bc60ae039f4dd5d13fae05426207\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1121773b8b553ad581340de2cd87a8cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\09a17dc6556cdf526ac5c1b27a13f94c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1d060a2131c60a246408599982d325c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\a808104b3de6d6ca8fd3656be246a4af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\63fe923398af2ed8bffde9aa919a49fb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\2d30dabc46c8a9c6f3baf96646e197d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\546c41d7674bf444f5796fc1935f3b41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\017d983cc20fca2c5ef40167c19e7306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ab18fa79d5c3b357e2966e1cd113ac95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\feaf4898454297c49ada34b8586a2fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\ad4a2998e384964d61f2a9ee610717a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\b760d514a582ceab5962ade171732f76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\aff6ba3341999aa4769952792d1afe0d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\d18e4da6d1be39a78f29bc5d54ced8a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\8f2a316810791b77d3e9ebc77ce43e61\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:1-85:12
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.ANSWER_PHONE_CALLS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.REORDER_TASKS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:29:5-89
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:29:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:32:5-74
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:32:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:35:22-65
+application
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:36:5-83:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] E:\.gradle\caches\transforms-2\files-2.1\aaf90632dd37375cba8181d0e97bbd69\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] E:\.gradle\caches\transforms-2\files-2.1\aaf90632dd37375cba8181d0e97bbd69\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\63fe923398af2ed8bffde9aa919a49fb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\63fe923398af2ed8bffde9aa919a49fb\AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:38:9-52
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:43:9-35
+	android:label
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:40:9-41
+	android:roundIcon
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:42:9-54
+	android:icon
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:39:9-43
+	android:allowBackup
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:37:9-35
+	android:theme
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:44:9-40
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:41:9-33
+activity#com.anthonyh.recordshow.MainActivity
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:56:9-64:20
+	android:configChanges
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:58:13-133
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:57:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:62:27-74
+activity#com.anthonyh.recordshow.ui.ShowActivity
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:65:9-67:15
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:66:13-44
+activity#com.anthonyh.recordshow.IatDemo
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:68:9-71:52
+	android:screenOrientation
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:71:13-49
+	android:configChanges
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:70:13-133
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:69:13-59
+activity#com.anthonyh.recordshow.setting.UrlSettings
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:72:9-75:52
+	android:screenOrientation
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:75:13-49
+	android:configChanges
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:74:13-133
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:73:13-71
+meta-data#IFLYTEK_APPKEY
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:76:9-78:42
+	android:value
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:78:13-29
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:77:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:79:9-81:44
+	android:value
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:81:13-41
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:80:13-43
+uses-sdk
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] E:\.gradle\caches\transforms-2\files-2.1\aaf90632dd37375cba8181d0e97bbd69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] E:\.gradle\caches\transforms-2\files-2.1\aaf90632dd37375cba8181d0e97bbd69\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ad807e80d9ad0d336659fca9b4e41e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ad807e80d9ad0d336659fca9b4e41e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\fcb1a59028735eeb8e027124d947d7c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\fcb1a59028735eeb8e027124d947d7c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\3b96b1725cafd47b94d5d0c24654167f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\3b96b1725cafd47b94d5d0c24654167f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\888b9e673ef926a58263c9b769cefda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\888b9e673ef926a58263c9b769cefda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\d72ab9b7e39605297fa44d07559594b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\d72ab9b7e39605297fa44d07559594b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4cbb8c53ed2935ae8c002384ee937f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4cbb8c53ed2935ae8c002384ee937f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aec0d8c7d5de4adf36eaf606a9d021a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aec0d8c7d5de4adf36eaf606a9d021a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\b96505f33a2719681053daa7f8a9d7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\b96505f33a2719681053daa7f8a9d7a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\658322ea5edf78fbd9282f7050c040b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\658322ea5edf78fbd9282f7050c040b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4668bc60ae039f4dd5d13fae05426207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\4668bc60ae039f4dd5d13fae05426207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1121773b8b553ad581340de2cd87a8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1121773b8b553ad581340de2cd87a8cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\09a17dc6556cdf526ac5c1b27a13f94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\09a17dc6556cdf526ac5c1b27a13f94c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1d060a2131c60a246408599982d325c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\1d060a2131c60a246408599982d325c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\a808104b3de6d6ca8fd3656be246a4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\a808104b3de6d6ca8fd3656be246a4af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\aa4958b8ce50c7243aeb8674c94d968d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\63fe923398af2ed8bffde9aa919a49fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\63fe923398af2ed8bffde9aa919a49fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\2d30dabc46c8a9c6f3baf96646e197d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\2d30dabc46c8a9c6f3baf96646e197d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\546c41d7674bf444f5796fc1935f3b41\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\546c41d7674bf444f5796fc1935f3b41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\017d983cc20fca2c5ef40167c19e7306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\017d983cc20fca2c5ef40167c19e7306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ab18fa79d5c3b357e2966e1cd113ac95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\ab18fa79d5c3b357e2966e1cd113ac95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\feaf4898454297c49ada34b8586a2fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\feaf4898454297c49ada34b8586a2fc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\ad4a2998e384964d61f2a9ee610717a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\ad4a2998e384964d61f2a9ee610717a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\b760d514a582ceab5962ade171732f76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\b760d514a582ceab5962ade171732f76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\aff6ba3341999aa4769952792d1afe0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\aff6ba3341999aa4769952792d1afe0d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\d18e4da6d1be39a78f29bc5d54ced8a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\.gradle\caches\transforms-2\files-2.1\d18e4da6d1be39a78f29bc5d54ced8a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\8f2a316810791b77d3e9ebc77ce43e61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\.gradle\caches\transforms-2\files-2.1\8f2a316810791b77d3e9ebc77ce43e61\AndroidManifest.xml:20:5-44
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+		INJECTED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:51:9-53:50
+	android:resource
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:53:13-47
+	android:name
+		ADDED from E:\studyfxz\zcy\RecordTool\app\src\main\AndroidManifest.xml:52:13-63
