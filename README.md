@@ -1,2 +1,2 @@
 # RecordTool
-双声道直接降噪/谱减降噪 第一版
+Dual-Channel Direct Noise Reduction/Spectral Subtraction Noise Reduction
